@@ -1,0 +1,11 @@
+mkdir results/binarytree
+mkdir results/binheap
+mkdir results/dag
+mkdir results/disjset
+mkdir results/doublylinkedlist
+mkdir results/fibheap
+mkdir results/heaparray
+mkdir results/redblacktree
+mkdir results/searchtree
+mkdir results/singlylinkedlist
+mkdir results/sortedlist
